@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ReactJS & React Native<br>💬 Ask me about Python Docker ReactJS<br>⚡ Fun fact Ich spreche ein bisschen deutsch
+🌱 I’m currently learning NextJS<br>💬 Ask me about Python Docker ReactJS<br>⚡ Fun fact Ich spreche ein bisschen deutsch
 
 
 ## 🌐 Socials:
